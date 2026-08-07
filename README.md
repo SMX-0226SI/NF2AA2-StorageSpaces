@@ -1,4 +1,4 @@
-# 0226NF2. Espais d'emmagatzematge a sistemes Windows
+# AA2. Espais d'emmagatzematge a sistemes Windows
 
 ## Presentació de l'activitat
 
